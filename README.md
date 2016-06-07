@@ -69,3 +69,5 @@ You Don't Know JS (https://github.com/getify/You-Dont-Know-JS)
 Gogs - Go Git Service (https://gogs.io/)
 
 Blog de Arquitetura de Informação (http://arquiteturadeinformacao.com/)
+
+The Vanilla Javascript Repository (http://www.vanillalist.com/)

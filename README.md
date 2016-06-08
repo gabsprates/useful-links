@@ -71,3 +71,5 @@ Gogs - Go Git Service (https://gogs.io/)
 Blog de Arquitetura de Informação (http://arquiteturadeinformacao.com/)
 
 The Vanilla Javascript Repository (http://www.vanillalist.com/)
+
+SuperPlayer (https://www.superplayer.fm/)

@@ -73,3 +73,5 @@ Blog de Arquitetura de Informação (http://arquiteturadeinformacao.com/)
 The Vanilla Javascript Repository (http://www.vanillalist.com/)
 
 SuperPlayer (https://www.superplayer.fm/)
+
+Flat UI Colors (https://www.flatuicolors.com)

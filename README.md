@@ -75,3 +75,5 @@ The Vanilla Javascript Repository (http://www.vanillalist.com/)
 SuperPlayer (https://www.superplayer.fm/)
 
 Flat UI Colors (https://www.flatuicolors.com)
+
+flatuicolorpicker: Best Flat Colors For UI Design (http://www.flatuicolorpicker.com/)

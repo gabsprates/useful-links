@@ -79,3 +79,5 @@ Flat UI Colors (https://www.flatuicolors.com)
 flatuicolorpicker: Best Flat Colors For UI Design (http://www.flatuicolorpicker.com/)
 
 Flat Design Colors (http://www.flatdesigncolors.com/)
+
+Flat Clolors (http://flatcolors.net/)

@@ -25,6 +25,8 @@ PHP: Do Jeito Certo (http://br.phptherightway.com/)
 
 PHP: PHP type comparison tables - Manual (http://php.net/types.comparisons)
 
+Twig - The flexible, fast, and secure PHP template engine (http://twig.sensiolabs.org/)
+
 ---
 ### Front-end
 Patternify (http://www.patternify.com/)

@@ -53,6 +53,8 @@ The Vanilla Javascript Repository (http://www.vanillalist.com/)
 
 You Don't Know JS (https://github.com/getify/You-Dont-Know-JS)
 
+jQuery API Documentation (http://api.jquery.com/)
+
 ---
 ### Free Software
 Viva o Linux (http://www.vivaolinux.com.br/)

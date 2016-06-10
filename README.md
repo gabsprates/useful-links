@@ -63,6 +63,8 @@ Fedora Documentation (http://docs.fedoraproject.org/)
 
 DuckDuckGo (http://duckduckgo.com)
 
+---
+### Tools
 
 
 ---
@@ -93,3 +95,5 @@ Elixir (http://elixir-lang.org/)
 Gogs - Go Git Service (https://gogs.io/)
 
 SuperPlayer (https://www.superplayer.fm/)
+
+Emoji cheat sheet for GitHub, Basecamp and other services (http://www.emoji-cheat-sheet.com/)

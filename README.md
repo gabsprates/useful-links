@@ -65,14 +65,16 @@ DuckDuckGo (http://duckduckgo.com)
 
 ---
 ### Tools
-
-
----
 PageSpeed Insights (https://developers.google.com/speed/pagespeed/insights/)
 
-Tableless (http://tableless.com.br/)
-
 RegExr: Learn, Build, & Test RegEx (http://www.regexr.com/)
+
+Code Beautify (http://codebeautify.org/)
+
+regex101.com (https://regex101.com/)
+
+---
+Tableless (http://tableless.com.br/)
 
 Free Online IDE and Terminal (http://www.tutorialspoint.com/codingground.htm)
 
@@ -82,11 +84,7 @@ Web Hypertext Application Technology Working Group (https://whatwg.org/)
 
 InfoQ: Software Development News, Videos & Books (http://www.infoq.com/)
 
-Code Beautify (http://codebeautify.org/)
-
 Your Web, documented · WebPlatform.org (http://www.webplatform.org/)
-
-regex101.com (https://regex101.com/)
 
 Aprender Haskell será um grande bem para você! (http://haskell.tailorfontela.com.br/)
 

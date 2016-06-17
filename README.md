@@ -79,6 +79,8 @@ gitignore.io - Create Useful .gitignore Files For Your Project (https://www.giti
 
 A quick and simple image placeholder service (https://placehold.it/)
 
+Image placeholder for disgusting layouts (http://placevom.it/)
+
 ---
 Tableless (http://tableless.com.br/)
 

@@ -77,6 +77,8 @@ regex101.com (https://regex101.com/)
 
 gitignore.io - Create Useful .gitignore Files For Your Project (https://www.gitignore.io/)
 
+A quick and simple image placeholder service (https://placehold.it/)
+
 ---
 Tableless (http://tableless.com.br/)
 

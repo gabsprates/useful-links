@@ -82,11 +82,14 @@ A quick and simple image placeholder service (https://placehold.it/)
 Image placeholder for disgusting layouts (http://placevom.it/)
 
 ---
+### Info
 Tableless (http://tableless.com.br/)
 
-Free Online IDE and Terminal (http://www.tutorialspoint.com/codingground.htm)
-
 Ceweb.br (http://ceweb.br/)
+
+---
+
+Free Online IDE and Terminal (http://www.tutorialspoint.com/codingground.htm)
 
 Web Hypertext Application Technology Working Group (https://whatwg.org/)
 

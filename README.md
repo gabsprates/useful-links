@@ -106,3 +106,5 @@ Gogs - Go Git Service (https://gogs.io/)
 SuperPlayer (https://www.superplayer.fm/)
 
 Emoji cheat sheet for GitHub, Basecamp and other services (http://www.emoji-cheat-sheet.com/)
+
+Vim Awesome - Awesome Vim plugins from across the universe (http://vimawesome.com/)

@@ -27,6 +27,8 @@ PHP: PHP type comparison tables - Manual (http://php.net/types.comparisons)
 
 Twig - The flexible, fast, and secure PHP template engine (http://twig.sensiolabs.org/)
 
+phpDocumentor (https://www.phpdoc.org)
+
 ---
 ### Front-end
 Patternify (http://www.patternify.com/)

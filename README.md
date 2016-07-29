@@ -110,3 +110,5 @@ SuperPlayer (https://www.superplayer.fm/)
 Emoji cheat sheet for GitHub, Basecamp and other services (http://www.emoji-cheat-sheet.com/)
 
 Vim Awesome - Awesome Vim plugins from across the universe (http://vimawesome.com/)
+
+HTTPD - Apache2 Web Server (https://help.ubuntu.com/14.04/serverguide/httpd.html)

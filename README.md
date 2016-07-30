@@ -112,3 +112,5 @@ Emoji cheat sheet for GitHub, Basecamp and other services (http://www.emoji-chea
 Vim Awesome - Awesome Vim plugins from across the universe (http://vimawesome.com/)
 
 HTTPD - Apache2 Web Server (https://help.ubuntu.com/14.04/serverguide/httpd.html)
+
+A Great Vim Cheat Sheet (http://vimsheet.com/)

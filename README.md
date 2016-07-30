@@ -114,3 +114,5 @@ Vim Awesome - Awesome Vim plugins from across the universe (http://vimawesome.co
 HTTPD - Apache2 Web Server (https://help.ubuntu.com/14.04/serverguide/httpd.html)
 
 A Great Vim Cheat Sheet (http://vimsheet.com/)
+
+GoRails - Learn Ruby on Rails with screencasts for Web Developers (https://gorails.com/)

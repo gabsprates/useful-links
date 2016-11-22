@@ -29,6 +29,8 @@ Twig - The flexible, fast, and secure PHP template engine (http://twig.sensiolab
 
 phpDocumentor (https://www.phpdoc.org)
 
+FOPO - Free Online PHP Obfuscator (http://fopo.com.ar/)
+
 ---
 ### Front-end
 Patternify (http://www.patternify.com/)

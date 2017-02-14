@@ -63,6 +63,8 @@ MVCSS [Modular View CSS], Sass-based. (http://mvcss.io/)
 
 React Native Express - Learning React Native (http://www.reactnativeexpress.com/)
 
+ECMAScript® Language Specification (https://tc39.github.io/ecma262/)
+
 ---
 ### Free Software
 Viva o Linux (http://www.vivaolinux.com.br/)

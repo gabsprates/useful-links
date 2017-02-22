@@ -31,6 +31,8 @@ phpDocumentor (https://www.phpdoc.org)
 
 FOPO - Free Online PHP Obfuscator (http://fopo.com.ar/)
 
+Java Platform, Standard Edition 8 - API Specification (https://docs.oracle.com/javase/8/docs/api/index.html)
+
 ---
 ### Front-end
 Patternify (http://www.patternify.com/)
